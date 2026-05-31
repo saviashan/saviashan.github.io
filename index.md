@@ -41,7 +41,7 @@ layout: default
             <ul>
                 <li>Assumed overarching technical ownership for key business units, architecting and executing comprehensive cross-tenant cloud migrations.</li>
                 <li>Transitioned complex enterprise workloads—including Kubernetes clusters, serverless architectures, and multi-model databases—into dedicated environments with zero structural disruption.</li>
-                <li>Directed the engineering department's adoption of AI-centric development methodologies, integrating modern agentic workflows and establishing KPIs to measure department-wide efficiency gains and developer velocity.</li>
+                <li>Assisted with Engineering team's adoption of AI-centric development methodologies, integrating modern agentic workflows and establishing KPIs to measure department-wide efficiency gains and developer velocity.</li>
                 <li>Engineered fully automated deployment pipelines using Ansible and PowerShell, drastically reducing infrastructure provisioning times.</li>
                 <li>Established standardized infrastructure-as-code (IaC) practices across multiple cloud environments, utilizing Terraform and Pulumi.</li>
                 <li>Led strategic transitions from proprietary legacy tools to modern open-source solutions to optimize operational costs and enhance observability.</li>
