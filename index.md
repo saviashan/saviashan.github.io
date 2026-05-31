@@ -17,9 +17,9 @@ layout: default
 <!-- End #lead -->
 
 <div id="about" class="tech-section bg-darker">
-    <div class="container text-center">
-        <h2 class="heading text-accent" style="margin-bottom: 2rem;">About Me</h2>
-        <div class="glass-panel text-left" style="max-width: 900px; margin: 0 auto; text-align: left;">
+    <div class="container">
+        <h2 class="heading text-accent">About Me</h2>
+        <div class="glass-panel" style="max-width: 900px; margin: 0 auto;">
             <p>
                 Lead Platform Engineer and infrastructure architect specializing in multi-cloud environments (AWS, Azure, GCP) and complex digital transformations. Proven expertise in assuming technical ownership of business unit infrastructures, standardizing cloud operations, and driving engineering efficiency through AI-centric development and automated deployment pipelines.
             </p>
