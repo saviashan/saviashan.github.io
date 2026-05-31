@@ -17,19 +17,15 @@ layout: default
 <!-- End #lead -->
 
 <div id="about" class="tech-section bg-darker">
-    <div class="container">
-        <div class="row align-center">
-            <div class="col-md-4">
-                <h2 class="heading text-accent">About Me</h2>
-            </div>
-            <div class="col-md-8 glass-panel">
-                <p>
-                    Lead Platform Engineer and infrastructure architect specializing in multi-cloud environments (AWS, Azure, GCP) and complex digital transformations. Proven expertise in assuming technical ownership of business unit infrastructures, standardizing cloud operations, and driving engineering efficiency through AI-centric development and automated deployment pipelines.
-                </p>
-                <p>
-                    Strong background in bridging legacy systems to modern, cloud-native architectures while maintaining rigorous ISO 27001 security standards. Adept at aligning infrastructure strategy with overarching business goals, mentoring engineering teams, and optimizing cross-tenant cloud deployments.
-                </p>
-            </div>
+    <div class="container text-center">
+        <h2 class="heading text-accent" style="margin-bottom: 2rem;">About Me</h2>
+        <div class="glass-panel text-left" style="max-width: 900px; margin: 0 auto; text-align: left;">
+            <p>
+                Lead Platform Engineer and infrastructure architect specializing in multi-cloud environments (AWS, Azure, GCP) and complex digital transformations. Proven expertise in assuming technical ownership of business unit infrastructures, standardizing cloud operations, and driving engineering efficiency through AI-centric development and automated deployment pipelines.
+            </p>
+            <p style="margin-top: 1rem;">
+                Strong background in bridging legacy systems to modern, cloud-native architectures while maintaining rigorous ISO 27001 security standards. Adept at aligning infrastructure strategy with overarching business goals, mentoring engineering teams, and optimizing cross-tenant cloud deployments.
+            </p>
         </div>
     </div>
 </div>
