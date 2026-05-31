@@ -5,9 +5,14 @@ layout: default
     <div id="lead-content">
         <h1 class="glitch-text" data-text="Savishka Ashan">Savishka Ashan</h1>
         <h2 class="terminal-text">> Senior Platform Engineer<span class="cursor">_</span></h2>
-        <a href="#contact" class="btn-tech">
-            <i class="fa fa-envelope" aria-hidden="true"></i> Request Full Resume
-        </a>
+        <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+            <a href="#contact" class="btn-tech">
+                <i class="fa fa-envelope" aria-hidden="true"></i> Request Full Resume
+            </a>
+            <a href="https://www.linkedin.com/in/savishka-ashan/" target="_blank" class="btn-tech">
+                <i class="fa fa-linkedin" aria-hidden="true"></i> LinkedIn Profile
+            </a>
+        </div>
     </div>
     <div id="lead-overlay"></div>
     <div id="lead-down">
