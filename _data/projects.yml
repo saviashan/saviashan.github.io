@@ -1,0 +1,23 @@
+- title: "On-Prem to Cloud Migration (GCP)"
+  problem: >
+    The existing on-premise VMware infrastructure lacked scalability and required significant manual overhead for management and maintenance.
+  solution: >
+    Led a key migration project to move the on-prem environment to Google Cloud Platform (GCP). Utilized Terraform for infrastructure as code to provision and manage cloud resources, ensuring a repeatable and consistent setup. Optimized resources during the migration to improve cost-efficiency.
+  outcome: >
+    Successfully migrated the infrastructure to GCP, resulting in enhanced scalability, reduced operational overhead, and significant performance improvements. The use of IaC streamlined future deployments and disaster recovery processes.
+
+- title: "Kubernetes Cluster Implementation"
+  problem: >
+    The company needed a modern, scalable platform to host new microservices and internal tooling, moving away from traditional VM-based deployments.
+  solution: >
+    Provisioned the company's first Kubernetes cluster. Deployed and managed containerized applications and observability tools like SigNoz within the cluster. Managed deployments, services, and persistent storage using standard Kubernetes manifests.
+  outcome: >
+    Established a robust, container-native environment for application deployment. This improved developer agility, standardized the deployment process, and increased the resilience and observability of internal tools."
+
+- title: "CI/CD Pipeline Automation & Hardening"
+  problem: >
+    The existing release process was manual, slow, and prone to human error, lacking proper security checks and consistency.
+  solution: >
+    Re-provisioned and automated CI/CD pipelines using tools like AppVeyor, Jenkins, and Bitbucket Pipelines. Integrated security scanning and automated testing into the pipelines. Used Ansible and PowerShell to automate instance provisioning and application deployment.
+  outcome: >
+    Dramatically reduced deployment time and errors. Created a secure, automated, and reliable release process that allowed for more frequent and confident deployments. Improved the overall security posture by embedding checks directly into the development lifecycle.

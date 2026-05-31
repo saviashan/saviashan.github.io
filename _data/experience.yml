@@ -1,0 +1,31 @@
+- company: Valuepro
+  period: 2024 – Present
+  title: DevOps Engineer
+  description: >
+    Provisioning a release procedure and proper practices including a release timeline.
+    Jira Automation for the release board and change request board.
+    Reprovisioning the CICD pipeline - appveyor.
+    Managing on-prem and cloud resources - Managing on-prem hyper-v cluster and azure and AWS workloads. Played a key factor networking them and monitoring.
+    Played a key role on migrating the legacy classic ASP code base into a modern code base C#/ Angular.
+    Automated all the instance provisioning and deployment via Ansible + powershell.
+    Automated the patching of Windows and Linux servers using tools like automox and Ansible.
+    SQL server database performance monitoring and optimisation.
+    Provisioning the AWS infrastructure from scratch using Terraform.
+    Replacing the on-prem firewall from Cisco ASA to Sophos.
+    Provisioning the first kubernetes cluster at the company and use it to host signoz and other tooling in there.
+
+- company: Herron Todd White
+  period: November 2021 – 2024
+  title: DevOps Engineer
+  description: >
+    Managing and securing Google Cloud Platform (GCP) and AWS infrastructure along with on-prem VMware infrastructure.
+    Experience in creating and managing kubernetes clusters, deployments, services, PVCs and deploying web applications with microservices architecture in Google Kubernetes Engine.
+    Enhanced system performance and scalability by implementing strategic capacity planning, load testing, and taking proactive resource management measures.
+    Key involvement in migrating the on-prem environment into GCP along with resource optimization.
+    Key involvement in projects such as upgrading Elasticsearch (from version 1.5 to 8) and VMware ESXi host (from 6.5 to 6.7).
+
+- company: Green Light Worldwide
+  period: October 2021 – November 2021
+  title: Service Desk Engineer
+  description: >
+    Setting up workstations, OS installation, system upgrades, and troubleshooting for Windows machines. Managing and supporting printers and other office hardware components.

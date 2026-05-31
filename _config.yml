@@ -1,3 +1,9 @@
-theme: jekyll-theme-minimal
-title: Homepage
-description: Work in Progress!
+title: Savishka Ashan - IT Professional
+author: Savishka Ashan
+email: savishkashan@gmail.com
+linkedin_username: savishka-ashan
+formspree_form_id: your_form_id_here
+description: >- # this means to ignore newlines until "baseurl:"
+  Dynamic IT professional with extensive experience in cloud computing, infrastructure engineering, and application development.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com

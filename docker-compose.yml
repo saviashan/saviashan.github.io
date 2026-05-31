@@ -1,0 +1,16 @@
+services:
+  jekyll:
+    # Use the official Jekyll image that matches GitHub Pages
+    image: jekyll/jekyll:pages
+    
+    # Command to run Jekyll and watch for changes
+    # --force_polling is needed for Docker volume changes to be detected
+    command: jekyll serve --watch --force_polling --verbose
+    
+    # Map port 4000 on your machine to port 4000 in the container
+    ports:
+      - "4000:4000"
+      
+    # Mount the current directory into the container's working directory
+    volumes:
+      - .:/srv/jekyll
