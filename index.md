@@ -189,9 +189,10 @@ layout: default
 <div id="contact" class="tech-section">
     <h2 class="heading text-accent">Initialize Connection</h2>
     <div id="contact-form" class="glass-panel">
-        <form method="POST" action="https://formspree.io/f/{{ site.formspree_form_id }}">
-            <input type="hidden" name="_subject" value="Contact request from personal website" />
-            <input type="email" name="_replyto" class="tech-input" placeholder="> enter_your_email@" required>
+        <form method="POST" action="https://api.web3forms.com/submit">
+            <input type="hidden" name="access_key" value="{{ site.web3forms_access_key }}">
+            <input type="hidden" name="subject" value="Contact request from personal website" />
+            <input type="email" name="email" class="tech-input" placeholder="> enter_your_email@" required>
             <textarea name="message" class="tech-input" placeholder="> enter_your_message..." required></textarea>
             <button type="submit" class="btn-tech">Execute <i class="fa fa-paper-plane"></i></button>
         </form>
