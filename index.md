@@ -99,6 +99,9 @@ layout: default
                         <li>Engineered a secure, serverless backend architecture utilising Supabase for database management and Firebase for hosting.</li>
                         <li>Designed and implemented automated CI/CD pipelines using GitHub Actions to streamline deployments, routing traffic securely through Cloudflare.</li>
                     </ul>
+                    <a href="https://ugnexus.co" target="_blank" class="btn-tech" style="margin-top: 15px; font-size: 0.8rem; padding: 0.5rem 1rem;">
+                        <i class="fa fa-external-link" aria-hidden="true"></i> Visit ugnexus.co
+                    </a>
                 </div>
             </div>
         </div>
