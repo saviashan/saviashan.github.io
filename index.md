@@ -5,8 +5,8 @@ layout: default
     <div id="lead-content">
         <h1 class="glitch-text" data-text="Savishka Ashan">Savishka Ashan</h1>
         <h2 class="terminal-text">> Senior Platform Engineer<span class="cursor">_</span></h2>
-        <a href="/Savishka_SeniorPlatformEngneer.pdf" class="btn-tech" download>
-            <i class="fa fa-download" aria-hidden="true"></i> Download Resume
+        <a href="#contact" class="btn-tech">
+            <i class="fa fa-envelope" aria-hidden="true"></i> Request Full Resume
         </a>
     </div>
     <div id="lead-overlay"></div>
